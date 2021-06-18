@@ -1,3 +1,3 @@
 <?php
 
-$plugin_name = 'ipcheck_cloudflare';
+$plugin_name = 'ipcheckcloudflare';
