@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>IPCheck CloudFlare</name>
+  <author>Brandin Arsenault</author>
+  <website>https://github.com/Brandin/ipcheck-cloudflare</website>
+  <version>1.0.0</version>
+  <release>June 18, 2021</release>
+  <tested>5.3.1</tested>
+  <description>This plugin will validate the CloudFlare Proxy IP address and return the Real IP address of the user when triggering the ipCheck function.</description>
+  <button></button>
+</plugin>
